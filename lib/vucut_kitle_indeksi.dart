@@ -14,7 +14,7 @@ class _VucutKitleIndeksiState extends State<VucutKitleIndeksi> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Vücut Kitle İndeksi by avdisx"),
+        title: Text("Vücut Kitle İndeksi by avdisxy"),
       ),
       body: Container(
         child: Form(
